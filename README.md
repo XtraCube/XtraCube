@@ -3,6 +3,7 @@ i like to do stuff with programming every now and then. used to work on AOU/All 
 ![XtraCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=XtraCube&show_icons=true&theme=dark)
 
 ## programming languages i may or may not know
+- unreal blueprints (partially)
 - c# (kind of)
 - js (sort of)
 - c++ (currently learning)
