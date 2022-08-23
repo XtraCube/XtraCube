@@ -11,7 +11,7 @@ i like to do stuff with programming every now and then. used to work on AOU/All 
 - typescript (plan on learning someday)
 
 ## ide i use
-- pretty much anything Jetbrains (expiring in january 2022)
+- pretty much anything Jetbrains
 - will be switching IDEs when Jetbrains stuff expires, pls suggest IDE for me to use [here](https://github.com/XtraCube/XtraCube/discussions/1)
 - Atom if i dont want to wait 10 minutes for my slowass PC to load stuff
 
