@@ -1,24 +1,24 @@
-i like to do stuff with programming every now and then. used to work on AOU/All Of Us, now I do nothing. attempting to learn C++. i also heavily rely on stack overflow
+i like programming, have been learning since I was in 5th grade (2017).
+lead developer on the AOU project (see contact section below)
+working on a portfolio, will post soon
 
 ![XtraCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=XtraCube&show_icons=true&theme=dark)
 
-## programming languages i may or may not know
-- unreal blueprints (partially)
-- c# (kind of)
-- js (sort of)
-- c++ (currently learning)
-- rust (not really, i played with it once)
-- typescript (plan on learning someday)
+## programming languages (ranked by how familiar I am in each)
+- C# (Very familiar with)
+- Java (Slightly less than C#)
+- JavaScript / NodeJS / Web Dev in general
+- Unreal blueprints (Somewhat familiar)
+- C++ (trying to learn)
 
-## ide i use
+## my IDEs
 - pretty much anything Jetbrains
-- will be switching IDEs when Jetbrains stuff expires, pls suggest IDE for me to use [here](https://github.com/XtraCube/XtraCube/discussions/1)
-- Atom if i dont want to wait 10 minutes for my slowass PC to load stuff
+- Visual Studio if Jetbrains isn't playing nice
+  
+## socials
+- [youtube](https://youtube.com/xtracube)
 
-## where the hell do i contact xtracube
-- [my discord server (very cringe)](https://discord.gg/uBHx2D4)
-- [AOU discord server (less cringe)](https://discord.gg/uZ7mjK9uQn)
-
-## shameless plug
-- [youtube (cringe)](https://youtube.com/xtracube)
-- [twitch (inactive)](https://twitch.tv/xtracube)
+## where do i contact xtracube
+- discord account: the.real.soap
+- [my discord server](https://discord.gg/uBHx2D4)
+- [AOU discord server](https://discord.gg/uZ7mjK9uQn)
