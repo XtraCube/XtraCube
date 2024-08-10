@@ -21,6 +21,6 @@ working on a portfolio, will post soon.
 - [youtube](https://youtube.com/xtracube)
 
 ## where do i contact xtracube
-- discord account: the.real.soap
+- discord account: xtracube
 - [my discord server](https://discord.gg/uBHx2D4)
 - [AOU discord server](https://discord.gg/uZ7mjK9uQn)
