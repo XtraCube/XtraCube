@@ -8,9 +8,9 @@ working on a portfolio, will post soon.
 - C# (Very familiar with)
 - Java (Slightly less than C#)
 - Unity Game engine
-- JavaScript / NodeJS / Web Dev in general
-- Godot 4 game engine
+- JavaScript / NodeJS / TypeScript / Web Dev in general
 - Unreal blueprints (Somewhat familiar)
+- Godot 4 game engine
 - C++ (trying to learn)
 
 ## my IDEs
