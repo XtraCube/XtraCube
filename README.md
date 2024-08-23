@@ -1,5 +1,7 @@
 i like programming, have been learning since I was in 5th grade (2017).
-lead developer on the [AOU project](https://github.com/All-Of-Us-Mods/)
+
+lead developer on the [AOU project](https://github.com/All-Of-Us-Mods/).
+
 working on a portfolio, will post soon.
 
 ## socials
