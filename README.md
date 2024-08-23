@@ -13,6 +13,7 @@ working on a portfolio, will post soon.
 - [my discord server](https://discord.gg/uBHx2D4)
 - [AOU discord server](https://discord.gg/uZ7mjK9uQn)
 
+
 ![XtraCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=XtraCube&show_icons=true&theme=dark)
 
 ## programming languages / game engines (ranked by how familiar I am in each)
