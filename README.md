@@ -11,7 +11,7 @@ working on a portfolio, will post soon.
 - discord account: xtracube
 - [website](https://www.xtracube.dev/)
 - [my discord server](https://discord.gg/uBHx2D4)
-- [AOU discord server](https://discord.gg/uZ7mjK9uQn)
+- [AOU discord server](https://discord.gg/TQeQdCCcx8)
 
 
 ![XtraCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=XtraCube&show_icons=true&theme=dark)
