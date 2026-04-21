@@ -7,6 +7,7 @@ lead developer on the [AOU project](https://github.com/All-Of-Us-Mods/)
 - [YouTube](https://youtube.com/xtracube)
 
 ## contact info
+- email: [me@sameerumar.com](mailto:me@sameerumar.com)
 - discord account: xtracube
 - [my discord server](https://discord.gg/uBHx2D4)
 - [AOU discord server](https://discord.gg/TQeQdCCcx8)
