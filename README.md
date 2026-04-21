@@ -1,31 +1,15 @@
-i like programming, learning since 2017
+visit my [website](https://sameerumar.com)
 
-lead developer on the [AOU project](https://github.com/All-Of-Us-Mods/).
-
-working on a portfolio, will post soon.
+lead developer on the [AOU project](https://github.com/All-Of-Us-Mods/)
 
 ## socials
-- [youtube](https://youtube.com/xtracube)
+- [LinkedIn](https://www.linkedin.com/in/sameer-umar-67a487328/)
+- [YouTube](https://youtube.com/xtracube)
 
 ## contact info
 - discord account: xtracube
-- [website](https://www.xtracube.dev/)
 - [my discord server](https://discord.gg/uBHx2D4)
 - [AOU discord server](https://discord.gg/TQeQdCCcx8)
 
-
+## stats cuz why not
 ![XtraCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=XtraCube&show_icons=true&theme=dark)
-
-## programming languages / game engines (ranked by how familiar I am in each)
-- C#
-- Kotlin
-- Java
-- JavaScript / NodeJS / TypeScript / Web Dev in general
-- C++
-- Unity Game engine
-- Unreal blueprints (Somewhat familiar)
-- Godot 4 game engine
-
-## my IDEs
-- Jetbrains everything
-- Visual Studio and VSC occasionally
